@@ -36,4 +36,4 @@ A partir dessas narrativas, o desafio foi resolver as questões abaixo e complem
 
 Diante disso, a minha solução é a proposta na imagem abaixo. O desenvolvimento da modelagem foi feita utilizando a ferramenta MySQL Workbench.
 
-C:\Users\Rafael\OneDrive\10 - DIO\2 - Formação SQL Database Specialist\Modelo Ecommerce.png
+![Modelo Ecommerce](https://github.com/RafaBBoaventura/Modelagem_Ecommerce/assets/131798428/03eb0de8-865f-481e-9742-028c28bb41a0)
